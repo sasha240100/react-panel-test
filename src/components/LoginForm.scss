@@ -1,0 +1,9 @@
+.LoginForm {
+  &__Form {
+    width: 300px;
+    margin: 0 auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
